@@ -385,3 +385,13 @@ expected <block end>, but found '<block mapping start>'
 2025-02-19 16:47:37 DEBUG _windows.py:192: Thread started
 2025-02-19 16:47:37 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-2b8d7959-ee9e-11ef-807a-c4ad3f0be1ed
 2025-02-19 16:49:23 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-19 18:25:18 INFO log.py:21: Yasb v1.5.91
+2025-02-19 18:25:18 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-19 18:25:18 INFO app_bar.py:103: Bar Created on Screen: \\.\DISPLAY1 [Bar Height: 40px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 1920, Screen Height: 1080]
+2025-02-19 18:25:19 INFO event_listener.py:52: Created named pipe yasb-d184d438-eeab-11ef-84c7-c4ad3f0be1ed
+2025-02-19 18:25:19 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-d184d438-eeab-11ef-84c7-c4ad3f0be1ed
+2025-02-19 18:25:19 INFO watcher.py:39: Created file watcher for path C:\Users\getsomefoodbruh\.config\yasb
+2025-02-19 18:25:19 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-19 18:25:19 DEBUG _windows.py:192: Thread started
+2025-02-19 18:25:19 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-d184d438-eeab-11ef-84c7-c4ad3f0be1ed
+2025-02-19 18:25:55 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
